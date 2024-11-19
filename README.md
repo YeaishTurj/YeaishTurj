@@ -30,8 +30,8 @@ Highlight your creativity and skills with this project! 🚀
 ## 📈 GitHub Stats & Fun Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YeaishTurj&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeaishTurj&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
