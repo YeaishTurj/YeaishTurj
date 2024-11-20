@@ -1,43 +1,42 @@
+# Hey 👋, this is your go-to tech friend, ```Yeaish Jahan Turj```! 👨‍💻
 
-# 💫 About Me:
+Welcome to my profile! I'm a Computer Science student, future software engineer, and an all-around tech enthusiast. If you're into coding, competitive programming, or just need a good laugh while debugging, you’re in the right place! 🚀
+
+---
+
+
+# 💫 About Me:  
 #### 🔭 I’m currently working on  
-I’m currently building a desktop application using JavaFX for my academic project—because who wouldn’t want to combine the elegance of Java with the power of a graphical interface? 🤓 It’s basically a dance between the compiler and the database, where I try to make them play nice together (spoiler: sometimes they don’t!). But hey, the challenge is half the fun, right? 😅 Who knows, maybe next time you come by, you’ll see a whole new project (or a new set of bugs to laugh at 😂)
+I’m currently wrestling with JavaFX to build a desktop app for my academic project. It’s basically a chaotic love triangle between me, the compiler, and the database—where the database keeps ghosting me, but I’m determined to win its heart. Spoiler alert: it's a drama-filled journey with occasional happy endings! 😂  
 
 #### 🌱 I’m currently learning  
-###### How to write code that doesn’t come with “surprise features” (also known as bugs) 😅 (trust me, no kidding!).
-When I'm not battling through a jungle of data structures and algorithms (competitive programming life 🧠💥), I’m sneaking some time into web development (spoiler: yeah, it’s for my academic purposes, but don’t tell anyone) 🌐. When I'm not buried in code challenges, I’m on a mission to learn some shiny new skills to make my GitHub look even more awesome 🛠️. By the time I graduate, you might catch me dabbling in Android development 📱, machine learning 🤖, or maybe even conquering the cloud and AI ☁️—because hey, who doesn’t love a toolbox that's ready for anything? 🚀
+How to write code that *doesn’t* double as a bug factory—that’s the dream! Between wrestling with competitive programming and dabbling in web development, I’m also collecting shiny new skills to make my GitHub look less like a war zone and more like a tech playground. By graduation, my **Tech Stack** might just need its own zip code! 😅
 
-#### 👯 I’m looking to collaborate on
-Anything that doesn’t involve debugging infinite loops at 3 AM (but hey, I’m still up for a challenge!).  
+#### 👯 I’m looking to collaborate on  
+Anything cool and challenging—as long as it doesn’t involve debugging infinite loops at 3 AM (been there, cried about it). But hey, if your project comes with a good laugh and some snacks, count me in! 😅  
 
-#### 🤝 I’m looking for help with
-Figuring out why my code works perfectly at midnight but not during the demo 😅.
-Also, if you happen to be an Arch Linux wizard, please send help 🙏—because apparently, Arch doesn't have all the software that other OSes have (and I'm starting to believe my laptop's trying to sabotage me). Need assistance getting out of that situation! If anyone can make all software Arch-compatible, I’ll owe you a lifetime supply of virtual coffee ☕💻.
+#### 🤝 I’m looking for help with  
+Figuring out why my code behaves like a genius at midnight but turns into a drama queen during demos. And if you’re fluent in Arch Linux, please rescue me from its endless maze—I’ll trade you eternal gratitude, unlimited virtual coffee, and maybe even name my next bug after you! ☕😂
 
-
-#### 💬 Ask me about
-How I manage to break perfectly working code just by “fixing” it 😅.
-Also, if you ever find yourself in the dire need of installing some software on your Windows (or anything that involves clicking 'Next' a million times), call me! I’m like the unofficial tech support for my friends and family. Seriously, if there’s a “Windows Install Wizard,” I’m basically its apprentice 👨‍💻✨. I’ve got you covered—just don’t blame me if your computer ends up with too many updates!
+#### 💬 Ask me about  
+My uncanny ability to break perfectly fine code just by staring at it too hard—it’s basically my superpower. 🦸‍♂️ When I’m not busy breaking my own code, I’m the “tech wizard” everyone calls. Need Windows installed? Updates fixed? Laptop refusing to cooperate? My friends and family call me faster than you can say, “Have you tried turning it off and on again?” Half my life is spent clicking “Next” on installers and pretending to know what I’m doing—spoiler: it works 90% of the time! 😂
 
 #### ⚡ Fun fact  
-You might catch me googling or YouTubing about Arch Linux more than I’d like to admit 😅. Not because I’ve fallen head over heels for learning Arch (trust me, it’s not a love story 💔), but because, well, some things on Arch just seem like a mystery box to me 🎁. It’s like solving a puzzle where the pieces don’t quite fit... but hey, that's what makes it fun, right? 🧩 So if you see me staring at my screen with a confused look 🤔, it's probably just me trying to convince Arch to work the way I want it to! 😂
+I use Arch Linux because every other OS turns my laptop into a frying pan—seriously, I could probably cook an egg on it (okay, maybe that's too much). With Arch, my laptop stays chill, and I get to flex my terminal ninja skills (even if half the time, I’m just Googling what to type). It’s a love-hate relationship, but hey, it keeps life interesting! 😂
 
-#### 🤖 My Linux Adventures  
-##### ⚙️ Why I Use Arch Linux (btw)
-I have a very “peculiar” reason for choosing Arch Linux—it’s the coolest (literally) Linux distro for me! On any other Linux system, my HDD starts heating up like it’s auditioning to be a hot plate. And no, I don’t eat hot dogs, nor do I enjoy the idea of having a hot laptop doubling as a space heater. Arch keeps things chill—my laptop stays cool, and I get to flex my terminal kung fu!
 
 
 ---
 
 # 🌐 Socials & Others links:  
 
-## Contact me
+### Contact me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yj.Turj)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yeaish-jahan-turj-73186b2a6)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yjturj12104@gmail.com)
 
-## 🏆 Competitive Programming  
-![Codeforces](https://img.shields.io/badge/Codeforces-%23F24E1E.svg?style=for-the-badge&logo=Codeforces&logoColor=white)  [![AtCoder](https://img.shields.io/badge/AtCoder-%23F24E1E.svg?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Yeaish_Turj)
+### 🏆 Competitive Programming  
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23F24E1E.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Yeaish_Turj)  [![AtCoder](https://img.shields.io/badge/AtCoder-%23F24E1E.svg?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Yeaish_Turj)
 
-# 🏅 LeetCode  
+### 🏅 LeetCode  
 ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)  
 [![LeetCode Stats](https://leetcode.card.workers.dev/Yeaish_Turj?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/Yeaish_Turj/)
 
