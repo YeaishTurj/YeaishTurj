@@ -6,9 +6,6 @@ Welcome to my profile! I'm a Computer Science student, future software engineer,
 
 
 # 💫 About Me:  
-#### 🔭 I’m currently working on  
-I’m currently wrestling with JavaFX to build a desktop app for my academic project. It’s basically a chaotic love triangle between me, the compiler, and the database—where the database keeps ghosting me, but I’m determined to win its heart. Spoiler alert: it's a drama-filled journey with occasional happy endings! 😂  
-
 #### 🌱 I’m currently learning  
 How to write code that *doesn’t* double as a bug factory—that’s the dream! Between wrestling with competitive programming and dabbling in web development, I’m also collecting shiny new skills to make my GitHub look less like a war zone and more like a tech playground. By graduation, my **Tech Stack** might just need its own zip code! 😅
 
