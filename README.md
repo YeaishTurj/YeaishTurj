@@ -35,7 +35,6 @@ I use Arch Linux because every other OS turns my laptop into a frying pan—seri
 
 ### 🏅 LeetCode  
 ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)  
-[![LeetCode Stats](https://leetcode.card.workers.dev/Yeaish_Turj?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/Yeaish_Turj/)
 
 ---
 
