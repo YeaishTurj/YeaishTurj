@@ -143,50 +143,21 @@ I use Arch Linux because other operating systems can turn my laptop into a heate
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YeaishTurj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YeaishTurj&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+### 🔥 Your GitHub Streak
 
-<br>
+<img src="https://streak-stats.demolab.com?user=YeaishTurj&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeaishTurj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="180"/>
+---
 
-<br><br>
+### 📈 Contribution Activity
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=YeaishTurj&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YeaishTurj&custom_title=Yeaish's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-### 🔝 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=YeaishTurj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
+## <img src="https://github-readme-activity-graph.vercel.app/graph?username=YeaishTurj&custom_title=Yeaish's%20GitHub%20Activity&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
----
-
 <div align="center">
-
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-<br><br>
-
-### 🐍 Watch my Contribution Graph get eaten by the Snake!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeaishTurj/YeaishTurj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YeaishTurj/YeaishTurj/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YeaishTurj/YeaishTurj/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff" width="100%"/>
 
