@@ -135,16 +135,16 @@ I'm a Computer Science student, future software engineer, and tech enthusiast wh
 
 ### 🏆 My Best Work
 
-| Project                    | Description                                             | Tech Stack                                    | Links                                                              |
-| -------------------------- | ------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------ |
-| **🔍 ClaimPoint**          | Smart Lost & Found System with AI-powered item matching | React, Node.js, PostgreSQL, Python ML, Docker | [Repo](https://github.com/YeaishTurj/claimpoint-smart-lost-found)  |
-| **📱 CUET Trade Portal**   | Full-featured marketplace for New & Pre-owned items     | React, Redux, Node.js, MongoDB, Cloudinary    | [Repo](https://github.com/YeaishTurj/CUET-Trade-Lost-Found-Portal) |
-| **🛒 T-Sell & Buy (Web)**  | Student marketplace web application                     | Node.js, Express, MySQL, Bootstrap            | [Repo](https://github.com/YeaishTurj/CUET-T-Sell-Buy-Web)          |
-| **💻 T-Sell & Buy (Java)** | Desktop marketplace application                         | JavaFX, JDBC, SQL Server                      | [Repo](https://github.com/YeaishTurj/CUET-T-Sell-Buy-Java)         |
-| **📚 Library Management**  | Complete library system with book tracking              | Node.js, Express, MongoDB, EJS                | [Repo](https://github.com/YeaishTurj/Library-Management-System)    |
-| **🤖 ML Core Topics**      | Machine learning algorithms & implementations           | Python, NumPy, Pandas, Scikit-learn           | [Repo](https://github.com/YeaishTurj/ml-core-topics)               |
-| **🧮 Problem Solutions**   | 750+ competitive programming problems solved            | C++, Bash, CSES, Codeforces                   | [Repo](https://github.com/YeaishTurj/problem-solutions)            |
-| **🛠️ Shell Scripts**       | Bash automation tools & utilities                       | Bash, Shell scripting                         | [Repo](https://github.com/YeaishTurj/Shell-script)                 |
+| Project                    | Description                                                         | Tech Stack                                               | Links                                                              |
+| -------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------ |
+| **💰 SpendWise**           | Modern personal finance dashboard with analytics, budgets & exports | Next.js, TypeScript, Prisma, Supabase, PostgreSQL        | [Repo](https://github.com/YeaishTurj/spendwise)                    |
+| **🔍 ClaimPoint**          | Smart Lost & Found System with AI-powered item matching             | React, Node.js, PostgreSQL, Python ML, Docker            | [Repo](https://github.com/YeaishTurj/claimpoint-smart-lost-found)  |
+| **📱 CUET Trade Portal**   | Full-featured marketplace for new & pre-owned items                 | React, Redux, Node.js, MongoDB, Cloudinary               | [Repo](https://github.com/YeaishTurj/CUET-Trade-Lost-Found-Portal) |
+| **🛒 T-Sell & Buy (Web)**  | Student marketplace web application                                 | Node.js, Express, MySQL, Bootstrap                       | [Repo](https://github.com/YeaishTurj/CUET-T-Sell-Buy-Web)          |
+| **💻 T-Sell & Buy (Java)** | Desktop marketplace application                                     | JavaFX, JDBC, SQL Server                                 | [Repo](https://github.com/YeaishTurj/CUET-T-Sell-Buy-Java)         |
+| **📚 Library Management**  | Complete library system with book tracking                          | Node.js, Express, MongoDB, EJS                           | [Repo](https://github.com/YeaishTurj/Library-Management-System)    |
+| **🤖 ML Core Topics**      | Machine learning algorithms & implementations                       | Python, NumPy, Pandas, Scikit-learn                      | [Repo](https://github.com/YeaishTurj/ml-core-topics)               |
+| **🧮 Problem Solutions**   | 750+ competitive programming problems solved                        | C++, Bash, CSES, Codeforces                              | [Repo](https://github.com/YeaishTurj/problem-solutions)            |
 
 </div>
 
