@@ -4,7 +4,7 @@
 
 Computer Science & Engineering student at **CUET** (Expected 2027), building production-oriented web applications, scalable backend microservices, and applied AI/LLM solutions. Experienced across **Next.js, Node.js, FastAPI, TypeScript, PostgreSQL, and Redis**.
 
-[Portfolio](https://yjturj.netlify.app) · [LinkedIn](https://linkedin.com/in/yj-turj) · [GitHub](https://github.com/YeaishTurj) · [Email](mailto:yjturj12104@gmail.com)
+[Resume](https://drive.google.com/file/d/1gT2pCDVPaLWay-xJB1CakS215NVF4v2c/view) · [Portfolio](https://yjturj.netlify.app) · [LinkedIn](https://linkedin.com/in/yj-turj) · [GitHub](https://github.com/YeaishTurj) · [Email](mailto:yjturj12104@gmail.com)
 
 ---
 
@@ -158,6 +158,9 @@ Solved **1500+ algorithmic problems** across major online judges:
 
 ## 🌐 Connect With Me
 
+<a href="https://drive.google.com/file/d/1gT2pCDVPaLWay-xJB1CakS215NVF4v2c/view">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+</a>
 <a href="https://linkedin.com/in/yj-turj">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
