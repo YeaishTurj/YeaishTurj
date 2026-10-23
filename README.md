@@ -108,6 +108,7 @@ I'm a Computer Science student, future software engineer, and tech enthusiast wh
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%33336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
@@ -137,6 +138,7 @@ I'm a Computer Science student, future software engineer, and tech enthusiast wh
 
 | Project                    | Description                                                         | Tech Stack                                               | Links                                                              |
 | -------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------ |
+| **🎯 CareerGap**           | AI skill-gap analyzer with human review (CUET × Synesis IT)         | Next.js 16, TypeScript, Express, PostgreSQL, Redis       | [Repo](https://github.com/CUET-Synesis-IT/careergap)               |
 | **💰 SpendWise**           | Modern personal finance dashboard with analytics, budgets & exports | Next.js, TypeScript, Prisma, Supabase, PostgreSQL        | [Repo](https://github.com/YeaishTurj/spendwise)                    |
 | **🔍 ClaimPoint**          | Smart Lost & Found System with AI-powered item matching             | React, Node.js, PostgreSQL, Python ML, Docker            | [Repo](https://github.com/YeaishTurj/claimpoint-smart-lost-found)  |
 | **📱 CUET Trade Portal**   | Full-featured marketplace for new & pre-owned items                 | React, Redux, Node.js, MongoDB, Cloudinary               | [Repo](https://github.com/YeaishTurj/CUET-Trade-Lost-Found-Portal) |
